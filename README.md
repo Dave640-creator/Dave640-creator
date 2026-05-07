@@ -70,5 +70,5 @@ A Flutter-based mobile application for organizing daily tasks and schedules.
 
 ## 📫 Contact Me
 
-* GitHub: https://github.com/yourusername
-* Email: davelausa113@gmail.com
+* GitHub:https://github.com/Dave640-creator
+* Email:davelausa113@gmail.com

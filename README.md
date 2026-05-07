@@ -48,14 +48,13 @@ Skilled in creating user-friendly applications using modern technologies and con
 
 ## 🚀 Sample Projects
 
-### 📌 Student Management System
+### 📌 Savings Goal App
 
-A database-driven system for managing student records and information.
+A mobile application designed to help users manage and track their savings goals efficiently.
 
-**Tech Used:** PHP, MySQL, HTML, CSS
+**Tech Used:** Flutter, Dart, SQLite
 
-🔗 GitHub Link: https://github.com/yourusername/student-management-system
-
+🔗 GitHub Link: https://github.com/Dave640-creator/Savings-Goal
 ---
 
 ### 📌 Mobile Task Manager App

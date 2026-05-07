@@ -57,14 +57,13 @@ A mobile application designed to help users manage and track their savings goals
 🔗 GitHub Link: https://github.com/Dave640-creator/Savings-Goal
 ---
 
-### 📌 Mobile Task Manager App
+## 📌 Academic Scheduling and Conflict Detection System
 
-A Flutter-based mobile application for organizing daily tasks and schedules.
+A Flutter-based academic scheduling application prototype focused on user interface design and scheduling workflow visualization.
 
-**Tech Used:** Flutter, Firebase, SQLite
+**Tech Used:** Flutter, Dart
 
-🔗 GitHub Link: https://github.com/yourusername/task-manager-app
-
+🔗 GitHub Link: https://github.com/Dave640-creator/Academic-Scheduling-and-Conflict-Detection-System
 ---
 
 ## 📫 Contact Me

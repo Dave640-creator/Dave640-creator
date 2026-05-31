@@ -1,139 +1,129 @@
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#020010"/>
-      <stop offset="50%"  stop-color="#0a0030"/>
-      <stop offset="100%" stop-color="#020010"/>
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00f5ff"/>
-      <stop offset="50%"  stop-color="#bf00ff"/>
-      <stop offset="100%" stop-color="#00f5ff">
-        <animate attributeName="stop-color" values="#00f5ff;#ff006e;#00f5ff" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"  stop-color="transparent"/>
-      <stop offset="50%" stop-color="#00f5ff"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow2">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf00ff,100:ff006e&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
-  <!-- Background -->
-  <rect width="900" height="200" fill="url(#bg)" rx="16"/>
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+YOUR+NAME+👋;Full+Stack+Developer+🚀;JavaScript+%7C+PHP+%7C+Python+Dev;Flutter+Mobile+Developer+📱;Always+learning%2C+always+shipping+⚡" alt="Typing SVG"/>
+</p>
 
-  <!-- Animated border -->
-  <rect width="898" height="198" x="1" y="1" fill="none" rx="15"
-    stroke="url(#lineGrad)" stroke-width="1.5" opacity="0.6">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
-  </rect>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views&color=00f5ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=for-the-badge&color=bf00ff&labelColor=0d1117"/>
+</p>
 
-  <!-- Grid lines horizontal -->
-  <line x1="0" y1="50"  x2="900" y2="50"  stroke="#00f5ff" stroke-width="0.3" opacity="0.12"/>
-  <line x1="0" y1="100" x2="900" y2="100" stroke="#00f5ff" stroke-width="0.3" opacity="0.12"/>
-  <line x1="0" y1="150" x2="900" y2="150" stroke="#00f5ff" stroke-width="0.3" opacity="0.12"/>
+---
 
-  <!-- Grid lines vertical -->
-  <line x1="150" y1="0" x2="150" y2="200" stroke="#00f5ff" stroke-width="0.3" opacity="0.12"/>
-  <line x1="300" y1="0" x2="300" y2="200" stroke="#00f5ff" stroke-width="0.3" opacity="0.12"/>
-  <line x1="450" y1="0" x2="450" y2="200" stroke="#00f5ff" stroke-width="0.3" opacity="0.12"/>
-  <line x1="600" y1="0" x2="600" y2="200" stroke="#00f5ff" stroke-width="0.3" opacity="0.12"/>
-  <line x1="750" y1="0" x2="750" y2="200" stroke="#00f5ff" stroke-width="0.3" opacity="0.12"/>
+## 🧑‍💻 About Me
 
-  <!-- Floating particles -->
-  <circle cx="80"  cy="40"  r="2" fill="#00f5ff" opacity="0.7" filter="url(#glow)">
-    <animate attributeName="cy" values="40;20;40"   dur="4s"   repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="820" cy="160" r="1.5" fill="#bf00ff" opacity="0.7" filter="url(#glow)">
-    <animate attributeName="cy" values="160;140;160" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="170" r="1.5" fill="#ff006e" opacity="0.6" filter="url(#glow)">
-    <animate attributeName="cy" values="170;150;170" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="30"  r="2" fill="#39ff14" opacity="0.5" filter="url(#glow)">
-    <animate attributeName="cy" values="30;50;30" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="500" cy="180" r="1.5" fill="#00f5ff" opacity="0.5" filter="url(#glow)">
-    <animate attributeName="cy" values="180;160;180" dur="4.5s" repeatCount="indefinite"/>
-  </circle>
+```javascript
+const developer = {
+  name:      "YOUR NAME",
+  username:  "@YourUsername",
+  location:  "Philippines 🇵🇭",
+  role:      "Full Stack Developer",
+  stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python"],
+  currentlyLearning: "AI & Machine Learning 🤖",
+  funFact:   "I debug with console.log and I'm not ashamed 😂",
+};
+```
 
-  <!-- Scan line effect -->
-  <rect x="0" y="0" width="900" height="4" fill="#00f5ff" opacity="0.07" rx="2">
-    <animate attributeName="y" values="-4;204;-4" dur="5s" repeatCount="indefinite"/>
-  </rect>
+---
 
-  <!-- Corner accents -->
-  <polyline points="16,40 16,16 40,16"  stroke="#00f5ff" stroke-width="2" fill="none" opacity="0.8"/>
-  <polyline points="860,16 884,16 884,40" stroke="#00f5ff" stroke-width="2" fill="none" opacity="0.8"/>
-  <polyline points="16,160 16,184 40,184" stroke="#00f5ff" stroke-width="2" fill="none" opacity="0.8"/>
-  <polyline points="860,184 884,184 884,160" stroke="#00f5ff" stroke-width="2" fill="none" opacity="0.8"/>
+## 🔥 GitHub Streak
 
-  <!-- Avatar circle -->
-  <circle cx="120" cy="100" r="52" fill="none" stroke="#00f5ff" stroke-width="1.5" opacity="0.4">
-    <animateTransform attributeName="transform" type="rotate" from="0 120 100" to="360 120 100" dur="8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="120" cy="100" r="44" fill="#0a0030" stroke="#bf00ff" stroke-width="1" opacity="0.6"/>
-  <text x="120" y="108" text-anchor="middle" font-size="36">👨‍💻</text>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=BF00FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&sideNums=ffffff&currStreakNum=ffffff" width="70%" alt="GitHub Streak"/>
+</p>
 
-  <!-- Small orbit dot -->
-  <circle cx="120" cy="48" r="4" fill="#00f5ff" filter="url(#glow)">
-    <animateTransform attributeName="transform" type="rotate" from="0 120 100" to="360 120 100" dur="8s" repeatCount="indefinite"/>
-  </circle>
+---
 
-  <!-- Main name -->
-  <text x="490" y="82"
-    font-family="'Courier New', monospace"
-    font-size="38"
-    font-weight="900"
-    text-anchor="middle"
-    fill="url(#textGrad)"
-    filter="url(#glow2)"
-    letter-spacing="4">
-    YOUR NAME
-  </text>
+## 📊 GitHub Stats
 
-  <!-- Underline glow -->
-  <line x1="280" y1="92" x2="700" y2="92" stroke="url(#lineGrad)" stroke-width="1.5" opacity="0.7"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=7&hide=Jupyter%20Notebook" width="49%" alt="Top Languages"/>
+</p>
 
-  <!-- Role text -->
-  <text x="490" y="125"
-    font-family="'Courier New', monospace"
-    font-size="14"
-    text-anchor="middle"
-    fill="#a0c8d8"
-    letter-spacing="6">
-    FULL STACK DEVELOPER · AI ENTHUSIAST
-  </text>
+---
 
-  <!-- Status badge -->
-  <rect x="355" y="145" width="270" height="26" rx="13" fill="none" stroke="#39ff14" stroke-width="1" opacity="0.6"/>
-  <circle cx="372" cy="158" r="5" fill="#39ff14" opacity="0.9">
-    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-  <text x="490" y="163"
-    font-family="'Courier New', monospace"
-    font-size="11"
-    text-anchor="middle"
-    fill="#39ff14"
-    letter-spacing="3">
-    OPEN TO WORK
-  </text>
+## 🛠️ Tech Stack
 
-  <!-- Side decorations -->
-  <text x="30" y="104" font-family="'Courier New', monospace" font-size="9" fill="#00f5ff" opacity="0.4" letter-spacing="1">
-    &lt;dev&gt;
-  </text>
-  <text x="840" y="104" font-family="'Courier New', monospace" font-size="9" fill="#00f5ff" opacity="0.4" letter-spacing="1">
-    &lt;/dev&gt;
-  </text>
-</svg>
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 📱 Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0D1117&color=00F5FF&line=BF00FF&point=FF006E&area=true&hide_border=true" alt="Activity"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YourProfile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/YourProfile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:bf00ff,100:00f5ff&height=100&section=footer" width="100%"/>
+</p>

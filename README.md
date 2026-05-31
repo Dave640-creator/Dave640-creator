@@ -2,7 +2,7 @@
      🚀 GITHUB PROFILE README — Modern & Professional Template
      ───────────────────────────────────────────────────────────────────────────
      SETUP CHECKLIST:
-     1. Replace every instance of `YOUR_USERNAME` with your GitHub username
+     1. Replace every instance of `Dave640-creator` with your GitHub username
      2. Replace `YOUR_NAME` with your display name
      3. Replace `YOUR_TITLE` with your role (e.g. "Full-Stack Developer")
      4. Update social links in the Connect section
@@ -48,11 +48,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=58A6FF&style=flat-square&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?color=58A6FF&style=flat-square&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Dave640-creator&color=58A6FF&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Dave640-creator?color=58A6FF&style=flat-square&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/Dave640-creator?color=58A6FF&style=flat-square&label=Stars)
 
-<!-- ↑ Replace YOUR_USERNAME in all three badge URLs above ↑ -->
+<!-- ↑ Replace Dave640-creator in all three badge URLs above ↑ -->
 
 </div>
 
@@ -109,7 +109,7 @@ currently:
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://YOUR_USERNAME.hashnode.dev)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://Dave640-creator.hashnode.dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 
 -->
@@ -200,7 +200,7 @@ currently:
 <!-- ╔══════════════════════════════════════════════════════╗
      ║               GITHUB STATISTICS                     ║
      ╚══════════════════════════════════════════════════════╝
-     IMPORTANT: Replace YOUR_USERNAME in every stats URL   -->
+     IMPORTANT: Replace Dave640-creator in every stats URL   -->
 
 ## 📊 GitHub Statistics
 
@@ -208,8 +208,8 @@ currently:
 
 <!-- ── Row 1: Main Stats + Streak ───────────────────────────────────────── -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dave640-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Dave640-creator&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888"/>
 
 </div>
 
@@ -217,7 +217,7 @@ currently:
 
 <!-- ── Row 2: Most Used Languages ──────────────────────────────────────── -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave640-creator&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -233,8 +233,8 @@ currently:
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME below -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Replace Dave640-creator below -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dave640-creator&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -250,8 +250,8 @@ currently:
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME below -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Replace Dave640-creator below -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dave640-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -265,7 +265,7 @@ currently:
 
   SETUP REQUIRED — follow these steps once:
 
-  1. In your profile repo (YOUR_USERNAME/YOUR_USERNAME), create the file:
+  1. In your profile repo (Dave640-creator/Dave640-creator), create the file:
        .github/workflows/snake.yml
 
   2. Paste this content into snake.yml:
@@ -305,11 +305,11 @@ currently:
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME in both URLs below -->
+<!-- Replace Dave640-creator in both URLs below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dave640-creator/Dave640-creator/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dave640-creator/Dave640-creator/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Dave640-creator/Dave640-creator/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -331,11 +331,11 @@ currently:
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dave640-creator&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/Dave640-creator/YOUR_REPO_NAME_1)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dave640-creator&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/Dave640-creator/YOUR_REPO_NAME_2)
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_3)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_4)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dave640-creator&repo=YOUR_REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/Dave640-creator/YOUR_REPO_NAME_3)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dave640-creator&repo=YOUR_REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/Dave640-creator/YOUR_REPO_NAME_4)
 
 </div>
 
@@ -357,7 +357,7 @@ currently:
         <code>React</code> · <code>Node.js</code> · <code>PostgreSQL</code>
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_1">
+        <a href="https://github.com/Dave640-creator/YOUR_REPO_NAME_1">
           <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github"/>
         </a>
         <a href="https://YOUR_LIVE_DEMO_URL_1">
@@ -377,7 +377,7 @@ currently:
         <code>Python</code> · <code>FastAPI</code> · <code>Docker</code>
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_2">
+        <a href="https://github.com/Dave640-creator/YOUR_REPO_NAME_2">
           <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github"/>
         </a>
         <a href="https://YOUR_LIVE_DEMO_URL_2">
@@ -399,7 +399,7 @@ currently:
         <code>Next.js</code> · <code>TypeScript</code> · <code>MongoDB</code>
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_3">
+        <a href="https://github.com/Dave640-creator/YOUR_REPO_NAME_3">
           <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github"/>
         </a>
         <a href="https://YOUR_LIVE_DEMO_URL_3">
@@ -419,7 +419,7 @@ currently:
         <code>Vue.js</code> · <code>Go</code> · <code>Redis</code>
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_4">
+        <a href="https://github.com/Dave640-creator/YOUR_REPO_NAME_4">
           <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github"/>
         </a>
         <a href="https://YOUR_LIVE_DEMO_URL_4">
@@ -515,7 +515,7 @@ currently:
 
 <div align="center">
 
-[![Spotify](https://novatorem.YOUR_USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://novatorem.Dave640-creator.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
 </div>
 -->

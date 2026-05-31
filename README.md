@@ -88,7 +88,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dave640-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy-beta-five.vercel.app/?username=Dave640-creator&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=4" alt="Trophies"/>
 </p>
 
 ---

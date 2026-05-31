@@ -1,16 +1,16 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf00ff,100:ff006e&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf00ff,100:ff006e&height=200&section=header&text=Dave%20B.%20Lausa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+YOUR+NAME+👋;Full+Stack+Developer+🚀;JavaScript+%7C+PHP+%7C+Python+Dev;Flutter+Mobile+Developer+📱;Always+learning%2C+always+shipping+⚡" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Dave+B.+Lausa+👋;Full+Stack+Developer+🚀;JavaScript+%7C+PHP+%7C+Python+Dev;Flutter+Mobile+Developer+📱;Always+learning%2C+always+shipping+⚡" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views&color=00f5ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=for-the-badge&color=bf00ff&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Dave640-creator&label=Profile+Views&color=00f5ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Dave640-creator?label=Followers&style=for-the-badge&color=bf00ff&labelColor=0d1117"/>
 </p>
 
 ---
@@ -19,8 +19,8 @@
 
 ```javascript
 const developer = {
-  name:      "YOUR NAME",
-  username:  "@YourUsername",
+  name:      "Dave B. Lausa",
+  username:  "@Dave640-creator",
   location:  "Philippines 🇵🇭",
   role:      "Full Stack Developer",
   stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python"],
@@ -34,7 +34,7 @@ const developer = {
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=BF00FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&sideNums=ffffff&currStreakNum=ffffff" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dave640-creator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=BF00FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&sideNums=ffffff&currStreakNum=ffffff" width="70%" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -42,8 +42,8 @@ const developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=7&hide=Jupyter%20Notebook" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dave640-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave640-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=7&hide=Jupyter%20Notebook" width="49%" alt="Top Languages"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dave640-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ const developer = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
+  <img src="https://raw.githubusercontent.com/Dave640-creator/Dave640-creator/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ const developer = {
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0D1117&color=00F5FF&line=BF00FF&point=FF006E&area=true&hide_border=true" alt="Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dave640-creator&bg_color=0D1117&color=00F5FF&line=BF00FF&point=FF006E&area=true&hide_border=true" alt="Activity"/>
 </p>
 
 ---
@@ -111,10 +111,10 @@ const developer = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourProfile">
+  <a href="https://linkedin.com/in/Dave640-creator">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/YourProfile">
+  <a href="https://facebook.com/Dave640-creator">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:your@email.com">

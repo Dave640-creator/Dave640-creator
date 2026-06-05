@@ -1,7 +1,6 @@
 <!-- BANNER -->
-<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=Dave%20B.%20Lausa&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=14&descColor=888888&animation=blinking&fontAlign=50&stroke=ffffff&strokeWidth=1" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Dave640-creator/Dave640-creator/main/banner.svg" width="100%"/>
 </p>
 
 <!-- TYPING SVG -->

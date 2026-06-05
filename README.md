@@ -1,6 +1,7 @@
 <!-- BANNER -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf00ff,100:ff006e&height=200&section=header&text=Dave%20B.%20Lausa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=Dave%20B.%20Lausa&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=14&descColor=888888&animation=blinking&fontAlign=50&stroke=ffffff&strokeWidth=1" width="100%"/>
 </p>
 
 <!-- TYPING SVG -->

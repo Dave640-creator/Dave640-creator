@@ -1,6 +1,9 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dave640-creator/Dave640-creator/main/banner.svg" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=DAVE+B.+LAUSA" alt="Name"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1500&color=666666&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;AI+Enthusiast;JavaScript+%7C+PHP+%7C+Python;Flutter+Mobile+Developer" alt="Typing SVG"/>
 </p>
 
 <!-- TYPING SVG -->

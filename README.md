@@ -34,7 +34,7 @@ const developer = {
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dave640-creator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=BF00FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&sideNums=ffffff&currStreakNum=ffffff" width="70%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Dave640-creator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=BF00FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&sideNums=ffffff&currStreakNum=ffffff" width="70%" alt="GitHub Streak"/>
 </p>
 
 ---

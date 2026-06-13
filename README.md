@@ -44,10 +44,11 @@ const developer = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
- <img src="https://github-readme-stats-nine-dusky-41.vercel.app/api?username=Dave640-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
+## 📊 GitHub Stats
 
-<img src=" <img src="[https://github-readme-stats-nine-dusky-41.vercel.app/api?username=Dave640-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="49%](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave640-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8)"/>"/>
+<p align="center">
+  <img src="https://github-readme-stats-nine-dusky-41.vercel.app/api?username=Dave640-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave640-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" width="49%"/>
 </p>
 
 ---

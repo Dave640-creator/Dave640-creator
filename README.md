@@ -24,10 +24,10 @@
 const developer = {
   name:      "Dave B. Lausa",
   username:  "@Dave640-creator",
-  location:  "Philippines 🇵🇭",
+  location:  "Philippines",
   role:      "Full Stack Developer",
-  stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python"],
-  currentlyLearning: "AI & Machine Learning 🤖",
+  stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python","Kotlin"],
+  currentlyLearning: "AI & Machine Learning 🤖and Game ",
   funFact:   "I debug with console.log and I'm not ashamed 😂",
 };
 ```

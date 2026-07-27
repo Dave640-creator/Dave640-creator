@@ -33,11 +33,11 @@
 const dave = {
   name:      "Dave B. Lausa",
   username:  "@Dave640-creator",
-  location:  "Philippines 🇵🇭",
-  role:      "Full Stack Developer",
-  stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python", "Kotlin"],
-  currentlyBuilding: "Memoire — a personal memory keeper web app",
-  currentlyLearning: ["AI & Machine Learning 🤖", "Game Development 🎮"],
+  location:  "Philippines",
+  role:      "Developer(Mobile/Web Application,Website)",
+  stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python", "TypeScript","SQFlite"],
+ 
+  currentlyLearning: ["AI & Machine Learning 🤖", "SoftWare Development"],
   funFact:   "I debug with console.log and I'm not ashamed 😂",
 };
 ```

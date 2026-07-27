@@ -39,11 +39,11 @@ const dave = {
   currentlyLearning: ["AI & Machine Learning 🤖", "SoftWare Development"],
   funFact:   "I debug with console.log and I'm not ashamed 😂",
 };
+```
 
+---
 
-
-
-###🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dave640-creator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=BF00FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&sideNums=ffffff&currStreakNum=ffffff" width="70%" alt="GitHub Streak"/>
@@ -51,7 +51,7 @@ const dave = {
 
 ---
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dave640-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%"/>

@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Dave640-creator">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/Dave640-creator">
+  <a href="https://facebook.com/YOUR-FACEBOOK-HANDLE">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:your-real-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -34,9 +34,9 @@ const dave = {
   name:      "Dave B. Lausa",
   username:  "@Dave640-creator",
   location:  "Philippines",
-  role:      "Developer(Mobile/Web Application,Website)",
-  stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python", "TypeScript","SQFlite"],
-  currentlyLearning: ["AI & Machine Learning 🤖", "SoftWare Development"],
+  role:      "Developer (Mobile / Web Application, Website)",
+  stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python", "TypeScript", "SQFlite"],
+  currentlyLearning: ["AI & Machine Learning 🤖", "Software Development"],
   funFact:   "I debug with console.log and I'm not ashamed 😂",
 };
 ```
@@ -54,8 +54,8 @@ const dave = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%"/>
-  <img src="./profile/top-langs.svg" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dave640-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=c9d1d9&ring_color=00F5FF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave640-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" width="49%"/>
 </p>
 
 ---
@@ -68,6 +68,7 @@ const dave = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 **⚙️ Backend**

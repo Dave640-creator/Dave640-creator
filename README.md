@@ -32,6 +32,7 @@
 ```javascript
 const dave = {
   name:      "Dave B. Lausa",
+  course:    "BSCS"
   username:  "@Dave640-creator",
   location:  "Philippines",
   role:      "Developer (Mobile / Web Application, Website)",

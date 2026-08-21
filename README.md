@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Dave+%F0%9F%91%8B;Building+with+PHP+%7C+Python+%7C+TypeScript;Shipping+Flutter+Mobile+Apps+%F0%9F%93%B1;Currently+leveling+up+in+AI+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Dave+%F0%9F%91%8B;Building+with+JavaScript+%7C+PHP+%7C+Python;Shipping+Flutter+Mobile+Apps+%F0%9F%93%B1;Currently+leveling+up+in+AI+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -37,7 +37,24 @@ const dave = {
   username:  "@Dave640-creator",
   location:  "Philippines",
   role:      "Developer (Mobile / Web Application, Website)",
-  stack:     ["HTML", "CSS", "PHP", "MySQL", "Flutter", "Python", "TypeScript", "SQFlite"],
+  stack:     [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Flutter",
+    "Dart",
+    "PHP",
+    "Python",
+    "SQLite",
+    "MySQL",
+    "Supabase",
+    "Vercel",
+    "VS Code",
+    "GitHub",
+    "Figma",
+    "Canva"
+  ],
   currentlyLearning: ["AI & Machine Learning 🤖", "Software Development"],
   funFact:   "I debug with console.log and I'm not ashamed 😂",
 };
@@ -65,19 +82,11 @@ const dave = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,nextjs,tailwind,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,dart,php,python" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,nodejs,cs" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,sqlite" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,postman,vscode,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase,vercel,vscode,github,figma,canva" />
 </p>
 
 ---

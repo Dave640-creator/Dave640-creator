@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Dave+%F0%9F%91%8B;Building+with+JavaScript+%7C+PHP+%7C+Python;Shipping+Flutter+Mobile+Apps+%F0%9F%93%B1;Currently+leveling+up+in+AI+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Dave+%F0%9F%91%8B;Building+with+PHP+%7C+Python+%7C+TypeScript;Shipping+Flutter+Mobile+Apps+%F0%9F%93%B1;Currently+leveling+up+in+AI+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ const dave = {
   username:  "@Dave640-creator",
   location:  "Philippines",
   role:      "Developer (Mobile / Web Application, Website)",
-  stack:     ["JavaScript", "HTML", "CSS", "PHP", "MySQL", "Flutter", "Python", "TypeScript", "SQFlite"],
+  stack:     ["HTML", "CSS", "PHP", "MySQL", "Flutter", "Python", "TypeScript", "SQFlite"],
   currentlyLearning: ["AI & Machine Learning 🤖", "Software Development"],
   funFact:   "I debug with console.log and I'm not ashamed 😂",
 };
@@ -62,16 +62,14 @@ const dave = {
 
 ---
 
-## 🛠️ My Tech Stack & Tools
-
-Over the course of my academic career and personal projects, I have built a strong foundation across web, mobile, backend development, databases, and deployment technologies.
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,nextjs,tailwind,flutter,dart" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,nodejs,java,cs,kotlin" />
+  <img src="https://skillicons.dev/icons?i=php,python,nodejs,cs" />
 </p>
 
 <p align="center">
@@ -79,16 +77,8 @@ Over the course of my academic career and personal projects, I have built a stro
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,postman,vscode,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,postman,vscode,figma,canva" />
 </p>
-
-* **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-* **Backend:** PHP, Python, Node.js, Java, C#, Kotlin
-* **Mobile:** Flutter, Dart
-* **Databases & Storage:** MySQL, PostgreSQL, Supabase, Firebase, Firestore, SQLite
-* **Cloud & DevOps:** AWS, Docker, Vercel
-* **Tools:** Git, GitHub, VS Code, Postman, Figma, Photoshop
-* **Other Technologies:** SQFlite, AI & Machine Learning
 
 ---
 

@@ -28,7 +28,19 @@
 
 ---
 
+### 🧑‍💻 About Me
 
+```javascript
+const dave = {
+  name:      "Dave B. Lausa",
+  course:    "BSCS",
+  username:  "@Dave640-creator",
+  location:  "Philippines",
+  role:      "Developer (Mobile / Web Application, Website)",
+  
+  currentlyLearning: ["AI & Machine Learning 🤖", "Software Development"],
+  funFact:   "I debug with console.log and I'm not ashamed 😂",
+};
 ```
 
 ---

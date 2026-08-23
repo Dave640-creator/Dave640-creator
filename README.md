@@ -37,24 +37,7 @@ const dave = {
   username:  "@Dave640-creator",
   location:  "Philippines",
   role:      "Developer (Mobile / Web Application, Website)",
-  stack:     [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "Flutter",
-    "Dart",
-    "PHP",
-    "Python",
-    "SQLite",
-    "MySQL",
-    "Supabase",
-    "Vercel",
-    "VS Code",
-    "GitHub",
-    "Figma",
-    "Canva"
-  ],
+  
   currentlyLearning: ["AI & Machine Learning 🤖", "Software Development"],
   funFact:   "I debug with console.log and I'm not ashamed 😂",
 };

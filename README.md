@@ -38,7 +38,7 @@ const dave = {
   location:  "Philippines",
   role:      "Developer (Mobile / Web Application, Website)",
   
-  currentlyLearning: ["AI & Machine Learning 🤖", "Software Development"],
+  currentlyLearning: ["AI & Machine Learning", "Software Development"],
   funFact:   "I debug with console.log and I'm not ashamed 😂",
 };
 ```

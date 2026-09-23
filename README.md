@@ -36,6 +36,7 @@ const dave = {
   course:    "BSCS",
   username:  "@Dave640-creator",
   location:  "Philippines",
+  stack:html,css,js,php,python,mysql
   role:      "Developer (Mobile / Web Application, Website)",
   
   currentlyLearning: ["AI & Machine Learning", "Software Development"],
